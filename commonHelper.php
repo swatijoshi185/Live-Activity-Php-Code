@@ -1,4 +1,4 @@
-function liveActivityPush($liveActivityToken, $event)
+function liveActivityUpdate($liveActivityToken, $event)
 {
     $base_path = {Token Key file path}; //.p8 file path
     $TEAM_ID = ''; //your TEAM ID
